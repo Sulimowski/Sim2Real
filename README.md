@@ -323,5 +323,6 @@ Together, these components make it possible to reconstruct real scenes inside si
 If an object is physically reachable, the system is designed to manipulate it.
 
 ---
+## See full video demo on YouTube -> https://youtu.be/nisIn3u-9Ak?si=qrUenGVbCjNHBKnQ
 
 ### Source code is not provided because this is my personal project. If you need access to it, please feel free to reach out to me. 😊 

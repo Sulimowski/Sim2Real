@@ -193,8 +193,7 @@ One example of tool use is:
 This is important because real manipulation is not limited to direct grasping.  
 Sometimes the correct action is to manipulate one object by using another object as an intermediate tool.
 ### Demo of some skills
-![](0303.gif)
-![](0228P.gif)
+<img src="0303.gif" alt="" height="410">![](0228P.gif)
 ### Motion generation
 
 The trajectories of the arms inside the skills are currently computed using **inverse kinematics**.
@@ -322,3 +321,7 @@ It does so through four tightly integrated pipelines:
 Together, these components make it possible to reconstruct real scenes inside simulation and manipulate real-world objects through synchronized virtual execution.
 
 If an object is physically reachable, the system is designed to manipulate it.
+
+---
+
+### Source code is not provided because this is my personal project. If you need access to it, please feel free to reach out to me. 😊 
